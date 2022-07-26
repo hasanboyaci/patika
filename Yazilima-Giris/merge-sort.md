@@ -1,5 +1,5 @@
 # Merge Sort
-https://app.patika.dev/hasanboyaci
+www.patika.dev
 
 ## Soru 1
 1 = [16,21,11,8,12,22]  Dizi ilk olarak ikiye bölünür. <br>
