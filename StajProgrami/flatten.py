@@ -1,4 +1,4 @@
-
+#flatten
 empty = []
 
 def flatten(x):
